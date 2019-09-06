@@ -1,0 +1,21 @@
+.form {
+    font-family: 'Open Sans', sans-serif;
+    position: fixed;
+    width : 450px;
+    height:520px;
+    background-color: #3ad886;
+    left : 57vw;
+    top:150px;
+    margin:10px auto;
+    display:flex;
+    flex-direction: column;
+    border-radius: 2%;
+}
+.imgHolder{
+    width:320px;
+    height:200px;
+    margin: 7px auto;
+    background-position: 50%;
+    background-size: cover;
+    border:1px solid #ab2a19;
+}

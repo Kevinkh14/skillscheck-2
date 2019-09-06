@@ -1,0 +1,22 @@
+.header {
+    height:100px;
+    width:100%;
+    background-color: #AB2A19;
+    position: fixed;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.header>img{
+    width:50px;
+    position: absolute;
+    top:25px;
+    left:75px;
+}
+.header>h1{
+    position: absolute;
+    top: 15px;
+    left:150px;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+}

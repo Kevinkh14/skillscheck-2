@@ -1,0 +1,19 @@
+.product{
+    width:600px;
+    padding:15px;
+    margin:10px;
+    border-radius: 7px;
+    background-color: #d34735;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+}
+.productImage{
+    width:320px;
+    height:200px;
+    margin: 7px auto;
+    background-position: 50%;
+    background-size: cover;
+    border:1px solid #ab2a19;
+    margin-left: 2vw;
+}
